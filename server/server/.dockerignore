@@ -1,0 +1,17 @@
+# Node / deps
+node_modules
+npm-debug.log*
+
+# Git & meta
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+.dockerignore
+README.md
+
+# Local env & data
+.env
+data
+
+
